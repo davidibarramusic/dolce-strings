@@ -15,7 +15,7 @@ Set these in your Vercel project settings under Environment Variables.
 
 The "Studio" button in the footer requires a passcode to access admin view (where you can see who booked what and remove bookings if needed).
 
-Default passcode is `1234` — change it in `src/LessonSignup.jsx` (search for `ADMIN_PASSCODE`).
+Default passcode is `4329` — change it in `src/LessonSignup.jsx` (search for `ADMIN_PASSCODE`).
 
 ## Customizing the schedule
 
